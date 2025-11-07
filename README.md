@@ -1,4 +1,3 @@
-[Student Report Card System .cpp](https://github.com/user-attachments/files/23419017/Student.Report.Card.System.cpp)
 #include <iostream>
 #include <fstream>
 #include <iomanip>
@@ -684,5 +683,4 @@ int main()
 	}
 goto menu;
 }
-
 
